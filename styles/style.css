@@ -25,6 +25,7 @@ body {
     width: 50%;
     margin-left: 25%;
     margin-top: 5%;
+    margin-bottom: 5%;
     text-align: center;
     color: black;
     background: transparent;
@@ -70,11 +71,6 @@ h1{
 .but:hover{
     box-shadow:  0 0 20px #16cce8;
 }
-
-/* .link{
-    color: black;
-    text-decoration: none;
-} */
 
 .bottom{
     display: flex;
